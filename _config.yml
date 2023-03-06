@@ -1,6 +1,6 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: FD-SALN
+tagline: Fine-grained and Disentangled Style Representation for Few-shot Speaker Adaptation in Emotional Speech Synthesis
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
