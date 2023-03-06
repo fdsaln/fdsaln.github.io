@@ -1,6 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
 title: FD-SALN
@@ -15,4 +12,4 @@ To provide speaking style information for a few-shot text-to-speech (TTS) model,
 To solve these limitations, we propose a fine-grained style adaptive layer normalization (F-SALN) which manipulates style features on frame-level embeddings. We also propose a disentangled SALN (D-SALN), which independently generates prosody information from speaker and emotional information. From the several experimental results, we demonstrate that our F-SALN and D-SALN improve the intelligibility and fine-scale prosody of synthesized speech.
 
 <td><audio controls="" preload="none"><source src="./assets/samples/0_f1_A_fdsalnjl.wav"></audio></td>
----
+
