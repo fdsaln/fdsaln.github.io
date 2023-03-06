@@ -1,8 +1,8 @@
-
+---
 layout: home
 title: FD-SALN
 subtitle: Fine-grained and Disentangled Style Representation for Few-shot Speaker Adaptation in Emotional Speech Synthesis
-
+---
 Submitted to INTERSPEECH 2023 (Paper ID 1241)
 
 <h3>Abstract</h3>
