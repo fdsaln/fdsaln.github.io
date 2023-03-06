@@ -1,4 +1,4 @@
-<h1> FD-SALN: Fine-grained and Disentangled Style Representation for Few-shot Speaker Adaptation in Emotional Speech Synthesis
+<h1> FD-SALN: Fine-grained and Disentangled Style Representation for Few-shot Speaker Adaptation in Emotional Speech Synthesis </h1>
 
 Submitted to INTERSPEECH 2023 (Paper ID 1241)
 
